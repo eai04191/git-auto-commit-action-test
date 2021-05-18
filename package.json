@@ -1,0 +1,14 @@
+{
+  "name": "git-auto-commit-action-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eai04191/git-auto-commit-action-test",
+  "author": "Irie Aoi <eai@mizle.net>",
+  "license": "MIT",
+  "scripts": {
+    "format": "yarn prettier --write src ."
+  },
+  "dependencies": {
+    "prettier": "^2.3.0"
+  }
+}
