@@ -15,3 +15,5 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Apply auto prettier"
+          commit_user_name: 俺
+          commit_user_email: 俺@mizle.net
