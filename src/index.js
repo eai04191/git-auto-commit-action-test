@@ -1,2 +1,2 @@
 console.log("hello");
-                     console.log('some wrong format lines')            
+console.log("some wrong format lines");
